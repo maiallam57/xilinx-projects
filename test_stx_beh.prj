@@ -1,0 +1,8 @@
+vhdl isim_temp "Mux4_1.vhd"
+vhdl isim_temp "FullAdder.vhd"
+vhdl isim_temp "OneStageLogicCircuit.vhd"
+vhdl isim_temp "OneStageArithmeticCircuit.vhd"
+vhdl isim_temp "FourBitLogicCircuit.vhd"
+vhdl isim_temp "FourBitArithmeticCircuit.vhd"
+vhdl isim_temp "FourBitALU.vhd"
+vhdl isim_temp "ALUTest.vhd"

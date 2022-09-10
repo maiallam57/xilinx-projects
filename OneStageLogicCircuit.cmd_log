@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/OneStageLogicCircuit.xst" -ofn "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/OneStageLogicCircuit.syr" 
+xst -intstyle ise -ifn "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/OneStageLogicCircuit.xst" -ofn "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/OneStageLogicCircuit.syr" 

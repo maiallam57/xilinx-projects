@@ -1,0 +1,77 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Reading design: FourBitALU.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\Mux4_1.vhd" into library work
+Parsing entity <Mux4_1>.
+Parsing architecture <Behavioral> of entity <mux4_1>.
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\FullAdder.vhd" into library work
+Parsing entity <FullAdder>.
+Parsing architecture <Behavioral> of entity <fulladder>.
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\OneStageLogicCircuit.vhd" into library work
+Parsing entity <OneStageLogicCircuit>.
+Parsing architecture <Behavioral> of entity <onestagelogiccircuit>.
+WARNING:HDLCompiler:946 - "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\OneStageLogicCircuit.vhd" Line 19: Actual for formal port x is neither a static name nor a globally static expression
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\OneStageArithmeticCircuit.vhd" into library work
+Parsing entity <OneStageArithmeticCircuit>.
+Parsing architecture <Behavioral> of entity <onestagearithmeticcircuit>.
+WARNING:HDLCompiler:946 - "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\OneStageArithmeticCircuit.vhd" Line 28: Actual for formal port y is neither a static name nor a globally static expression
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\FourBitLogicCircuit.vhd" into library work
+Parsing entity <FourBitLogicCircuit>.
+Parsing architecture <Behavioral> of entity <fourbitlogiccircuit>.
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\FourBitArithmeticCircuit.vhd" into library work
+Parsing entity <FourBitArithmeticCircuit>.
+Parsing architecture <Behavioral> of entity <fourbitarithmeticcircuit>.
+Parsing VHDL file "D:\CD 2024\Computer Architecture\xilinx projects\FourBitALU\FourBitALU.vhd" into library work
+Parsing entity <FourBitALU>.
+Parsing architecture <Behavioral> of entity <fourbitalu>.
+
+
+Total REAL time to Xst completion: 5.00 secs
+Total CPU time to Xst completion: 4.90 secs
+ 
+--> 
+
+Total memory usage is 4496108 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

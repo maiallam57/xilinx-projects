@@ -1,0 +1,9 @@
+[Inputs]
+carry
+=Ain[3:0]=
+=Bin[3:0]=
+=SELECTOR[1:0]=
+[Outputs]
+Carry_out
+=outputs[3:0]=
+[BiDir]

@@ -1,0 +1,3 @@
+vhdl work "Mux4_1.vhd"
+vhdl work "OneStageLogicCircuit.vhd"
+vhdl work "FourBitLogicCircuit.vhd"

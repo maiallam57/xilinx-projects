@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Mux4_1.vhd -lib work FullAdder.vhd -lib work OneStageArithmeticCircuit.vhd -lib work FourBitArithmeticCircuit.vhd -prj FourBitALU -o FourBitArithmeticCircuit.spl -module FourBitArithmeticCircuit -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 FourBitArithmeticCircuit.spl {D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/FourBitArithmeticCircuit.sym} 

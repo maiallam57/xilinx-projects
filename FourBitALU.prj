@@ -1,0 +1,7 @@
+vhdl work "Mux4_1.vhd"
+vhdl work "FullAdder.vhd"
+vhdl work "OneStageLogicCircuit.vhd"
+vhdl work "OneStageArithmeticCircuit.vhd"
+vhdl work "FourBitLogicCircuit.vhd"
+vhdl work "FourBitArithmeticCircuit.vhd"
+vhdl work "FourBitALU.vhd"

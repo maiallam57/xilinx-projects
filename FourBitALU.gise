@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="FourBitALU.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="FourBitALU.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="FourBitALU.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="FourBitALU.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="FourBitALU.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FourBitALU.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="FourBitALU.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="FourBitALU.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="FourBitALU.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="FourBitALU_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FourBitArithmeticCircuit.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="FourBitArithmeticCircuit.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FourBitArithmeticCircuit.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="FourBitArithmeticCircuit.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FourBitArithmeticCircuit.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="FourBitLogicCircuit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="FourBitLogicCircuit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="FourBitLogicCircuit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="FourBitLogicCircuit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FourBitLogicCircuit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="FourBitLogicCircuit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="FourBitLogicCircuit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="FourBitLogicCircuit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="FourBitLogicCircuit_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="FourBitLogicCircuit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FullAdder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FullAdder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FullAdder.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Mux4_1.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Mux4_1.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Mux4_1.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Mux4_1.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux4_1.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Mux4_1.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Mux4_1.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Mux4_1.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Mux4_1_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Mux4_1_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="OneStageArithmeticCircuit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="OneStageArithmeticCircuit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="OneStageArithmeticCircuit.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="OneStageLogicCircuit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="OneStageLogicCircuit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="OneStageLogicCircuit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="OneStageLogicCircuit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="OneStageLogicCircuit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="OneStageLogicCircuit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="OneStageLogicCircuit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="OneStageLogicCircuit.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="OneStageLogicCircuit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="test_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1651295562" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1651295562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651537586" xil_pn:in_ck="2642426724606267598" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1651537586">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ALUTest.vhd"/>
+      <outfile xil_pn:name="FourBitALU.vhd"/>
+      <outfile xil_pn:name="FourBitArithmeticCircuit.vhd"/>
+      <outfile xil_pn:name="FourBitLogicCircuit.vhd"/>
+      <outfile xil_pn:name="FullAdder.vhd"/>
+      <outfile xil_pn:name="Mux4_1.vhd"/>
+      <outfile xil_pn:name="OneStageArithmeticCircuit.vhd"/>
+      <outfile xil_pn:name="OneStageLogicCircuit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1651536888" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="5812269477055105344" xil_pn:start_ts="1651536888">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651536888" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="8445289339418473310" xil_pn:start_ts="1651536888">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651295562" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="7746777166760447856" xil_pn:start_ts="1651295562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651537590" xil_pn:in_ck="2642426724606267598" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1651537590">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ALUTest.vhd"/>
+      <outfile xil_pn:name="FourBitALU.vhd"/>
+      <outfile xil_pn:name="FourBitArithmeticCircuit.vhd"/>
+      <outfile xil_pn:name="FourBitLogicCircuit.vhd"/>
+      <outfile xil_pn:name="FullAdder.vhd"/>
+      <outfile xil_pn:name="Mux4_1.vhd"/>
+      <outfile xil_pn:name="OneStageArithmeticCircuit.vhd"/>
+      <outfile xil_pn:name="OneStageLogicCircuit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1651537593" xil_pn:in_ck="2642426724606267598" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2510465552915272474" xil_pn:start_ts="1651537590">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_beh.prj"/>
+      <outfile xil_pn:name="test_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1651537601" xil_pn:in_ck="4140465173363612911" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1770706939250651287" xil_pn:start_ts="1651537601">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1649367087" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1649367087">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651294868" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="2007951120455928680" xil_pn:start_ts="1651294868">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651294868" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="7746777166760447856" xil_pn:start_ts="1651294868">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1649367087" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1649367087">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651294868" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-1711281646306246070" xil_pn:start_ts="1651294868">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1649367087" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1649367087">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651294868" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="2302506664996774330" xil_pn:start_ts="1651294868">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1651294958" xil_pn:in_ck="867686866365286652" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="769094668541270701" xil_pn:start_ts="1651294949">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="FourBitALU.lso"/>
+      <outfile xil_pn:name="FourBitALU.ngc"/>
+      <outfile xil_pn:name="FourBitALU.ngr"/>
+      <outfile xil_pn:name="FourBitALU.prj"/>
+      <outfile xil_pn:name="FourBitALU.stx"/>
+      <outfile xil_pn:name="FourBitALU.syr"/>
+      <outfile xil_pn:name="FourBitALU.xst"/>
+      <outfile xil_pn:name="FourBitALU_xst.xrpt"/>
+      <outfile xil_pn:name="FourBitLogicCircuit.ngr"/>
+      <outfile xil_pn:name="Mux4_1.ngr"/>
+      <outfile xil_pn:name="OneStageLogicCircuit.ngr"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

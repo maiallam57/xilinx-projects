@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "D:/CD 2024/Computer Architecture/xilinx projects/CarryLockedAhead/CarryLockedFullAdderTest_isim_beh.exe" -prj "D:/CD 2024/Computer Architecture/xilinx projects/CarryLockedAhead/CarryLockedFullAdderTest_beh.prj" "work.CarryLockedFullAdderTest" 
+-intstyle "ise" -incremental -lib "secureip" -o "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/test_isim_beh.exe" -prj "D:/CD 2024/Computer Architecture/xilinx projects/FourBitALU/test_beh.prj" "work.test" 

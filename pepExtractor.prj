@@ -1,1 +1,4 @@
-work	"CarryLockedFullAdder.vhd"
+work	"FourBitArithmeticCircuit.vhd"
+work	"FullAdder.vhd"
+work	"Mux4_1.vhd"
+work	"OneStageArithmeticCircuit.vhd"
