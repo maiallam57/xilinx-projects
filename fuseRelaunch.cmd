@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/CD 2024/Computer Architecture/xilinx projects/AND/TestAnd_isim_beh.exe" -prj "D:/CD 2024/Computer Architecture/xilinx projects/AND/TestAnd_beh.prj" "work.TestAnd" 
