@@ -1,0 +1,2 @@
+vhdl work "CarryLockedFullAdder.vhd"
+vhdl work "CarryLockedFullAdderTest.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "CarryLockedFullAdder.vhd"
+vhdl isim_temp "CarryLockedFullAdderTest.vhd"
